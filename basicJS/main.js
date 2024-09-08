@@ -88,4 +88,4 @@ for (let obj in person) {
   const line = document.createElement("h3");
   line.className = "line";
   document.body.appendChild(line).innerHTML = person[obj];
-}
+}friend-lists.txt
