@@ -70,8 +70,8 @@ https://www.studywithanis.com/
 <!-- [google][webSiteLink]{:target="_blank"}  
 [youtube][webSiteLink]{:target="_blank"}  
 [w3schools][webSiteLink]{:target="_blank"} -->
-<a href="https://www.google.com" target="_blank">google</a>
-<a href="https://www.youtube.com" target="_blank">youtube</a>
+<a href="https://www.google.com" target="_blank">google</a>  
+<a href="https://www.youtube.com" target="_blank">youtube</a>  
 <a href="https://www.w3schools.com" target="_blank">w3schools</a>
 
 <!-- All link -->
