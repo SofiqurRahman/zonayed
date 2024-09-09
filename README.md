@@ -63,12 +63,12 @@ https://www.studywithanis.com/
 `https://www.studywithanis.com/`
 
 ### Single link
-[studywithanis](https://www.studywithanis.com/)
+[studywithanis](https://www.studywithanis.com/){:target="_blank"}
 
 ### Some link
-[google][webSiteLink]  
-[youtube][webSiteLink]  
-[w3schools][webSiteLink]
+[google][webSiteLink]{:target="_blank"}  
+[youtube][webSiteLink]{:target="_blank"}  
+[w3schools][webSiteLink]{:target="_blank"}
 
 <!-- All link -->
 [webSiteLink]: https://www.google.com/
