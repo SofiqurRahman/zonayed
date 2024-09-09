@@ -85,4 +85,4 @@ https://www.studywithanis.com/
 | ---   | --- | --- |
 | Kamal | Doctor | Dhaka |
 | Jamal | Student | Pabna |
-| Rahim | IT | Rajshahi |
+| Rahim | Minister | Rajshahi |
